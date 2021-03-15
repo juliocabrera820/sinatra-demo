@@ -1,5 +1,11 @@
 class UsersController < ApplicationController
-  get '/users/sign_up' do
-    erb :'users/sign_up'
+  include SessionHelper
+  get '/users/:id' do
+    if logged_in?
+      @user = User.find(params[:id])
+      erb :'users/show'
+    else
+      redirect '/auth/sign_in'
+    end
   end
 end
