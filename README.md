@@ -17,3 +17,8 @@ Ruby version - 2.5.7
 
 `rake db:migrate`
 
+## Development
+
+After checking out the repo, run `bundle install` to install dependencies. Then run `shotgun` to run sinatra app and copy
+the next url in browser `http://localhost:9393/`
+
