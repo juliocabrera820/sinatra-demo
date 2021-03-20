@@ -1,4 +1,4 @@
-![Author](https://img.shields.io/badge/author-juliocabrera820-3D3D4D?color=233D3D4&style=flat)](https://github.com/juliocabrera820)
+[![Author](https://img.shields.io/badge/author-juliocabrera820-3D3D4D?color=233D3D4&style=flat)](https://github.com/juliocabrera820)
 [![Languages](https://img.shields.io/github/languages/count/juliocabrera820/sinatra-demo?color=%233D3D4&style=flat)](#)
 [![Stars](https://img.shields.io/github/stars/juliocabrera820/sinatra-demo?color=233D3D4&style=flat)](https://github.com/juliocabrera820/sinatra-demo/stargazers)
 [![Forks](https://img.shields.io/github/forks/juliocabrera820/sinatra-demo?color=233D3D4&style=flat)](https://github.com/juliocabrera820/sinatra-demo/network/members)
