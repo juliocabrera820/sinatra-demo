@@ -9,6 +9,7 @@ gem 'require_all'
 gem 'shotgun'
 gem 'sinatra', require: 'sinatra/base'
 gem 'sinatra-activerecord', '~> 2.0.20', :require => 'sinatra/activerecord'
+gem 'sinatra-flash'
 gem 'thin'
 gem 'tux'
 
