@@ -1,5 +1,7 @@
 source 'http://rubygems.org'
 
+ruby '2.5.7'
+
 gem 'activerecord', '~> 6.1', require: 'active_record'
 gem 'bcrypt'
 gem 'dotenv'
